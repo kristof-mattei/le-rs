@@ -1,0 +1,12 @@
+code:
+  - ".cargo/**"
+  - ".github/**"
+  - ".nvmrc"
+  - "*.toml"
+  - "build-scripts/**"
+  - Cargo.lock
+  - Dockerfile
+  - "src/**"
+  - "tests/**"
+  - "package.json"
+  - "pnpm-lock.yaml"
